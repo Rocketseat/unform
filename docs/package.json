@@ -16,7 +16,7 @@
     "gatsby-plugin-google-analytics": "^3.0.0",
     "gatsby-plugin-manifest": "^3.0.0",
     "gatsby-plugin-offline": "^4.0.0",
-    "gatsby-plugin-sitemap": "^3.0.0",
+    "gatsby-plugin-sitemap": "^4.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
