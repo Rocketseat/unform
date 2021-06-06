@@ -52,14 +52,14 @@
     "eslint-plugin-import-helpers": "1.1.0",
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-prettier": "3.3.1",
-    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-promise": "5.1.0",
     "eslint-plugin-react": "7.22.0",
     "eslint-plugin-react-hooks": "4.2.0",
-    "husky": "5.0.9",
-    "jest": "26.6.3",
+    "husky": "6.0.0",
+    "jest": "27.0.4",
     "jest-dom": "4.0.0",
     "lerna": "4.0.0",
-    "lint-staged": "10.5.3",
+    "lint-staged": "11.0.0",
     "prettier": "2.2.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
@@ -73,7 +73,7 @@
     "rollup-plugin-terser": "7.0.2",
     "rollup-plugin-typescript2": "0.29.0",
     "rollup-plugin-url": "3.0.1",
-    "ts-jest": "26.4.4",
+    "ts-jest": "27.0.3",
     "typescript": "4.1.3"
   }
 }
